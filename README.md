@@ -1,3 +1,3 @@
 # Live 
 
-## <https://benmharasd.herokuapp.com/tickets>
+## <https://benmharasd.herokuapp.com/>
